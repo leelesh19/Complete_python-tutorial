@@ -6,10 +6,6 @@ This repo is mainly focused on **learning by doing** using Jupyter Notebooks & V
 
 ---
 
-##  Repository Structure
-
----
-
 ##  Topics Covered
 
 - Python Basics & Syntax  
@@ -46,10 +42,10 @@ This repo is mainly focused on **learning by doing** using Jupyter Notebooks & V
 ##  How to Use
 
 1. Clone the repository  
-   '''bash
-   git clone https://github.com/Lakhan-cs/Complete_python-tutorial.git'''
+    bash <br>
+   git clone https://github.com/Lakhan-cs/Complete_python-tutorial.git
 
-2. Packages & requirements Used in 
-    '''pip install -r requirements.txt'''
+2. Packages & requirements Used in <br>
+    pip install -r requirements.txt
 
 
